@@ -1,0 +1,4 @@
+/home/bim/KR/4/build/CMakeFiles/rebuild_cache.dir
+/home/bim/KR/4/build/CMakeFiles/edit_cache.dir
+/home/bim/KR/4/build/CMakeFiles/main.dir
+/home/bim/KR/4/build/CMakeFiles/MyLibrary.dir
